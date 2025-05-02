@@ -1,6 +1,4 @@
-# mossaud
-
-**Metadata – Long-term warming effects on the microbiome of a common moss species in sub-Arctic tundra**
+#Metadata – Long-term warming effects on the microbiome of a common moss species in sub-Arctic tundra
 
 This repository provides metadata associated with 16S rRNA gene sequences from the study:  
 **“Long-term warming effects on the microbiome and nifH gene abundance of a common moss species in sub-Arctic tundra”**  
